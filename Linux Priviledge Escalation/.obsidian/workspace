@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "66ddb5d2705a6de7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed14246d87006355",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "PRIVILEDGE ESCALATION.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a7a4a12ccd89851",
+    "type": "split",
+    "children": [
+      {
+        "id": "775593904cb797f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb10eaba7a2b14d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb0b52b91ac510fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cae670aff6a004ac",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "79c8ee7f154c38eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f144a866fd2cb307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a07865ad450df8fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PRIVILEDGE ESCALATION.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e2f650a99c76e50",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d99170c246bd5d1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a07865ad450df8fc",
+  "lastOpenFiles": []
+}
