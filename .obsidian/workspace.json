@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c16f9fcc85ebff04",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Penetration Testing/Pentesting Notes.md",
-            "mode": "source",
-            "source": false
+        "id": "b3475d68549436d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c16f9fcc85ebff04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penetration Testing/Pentesting Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -111,7 +119,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bb0b52b91ac510fd",
+  "active": "c16f9fcc85ebff04",
   "lastOpenFiles": [
     "Linux Priviledge Escalation/PRIVILEDGE ESCALATION.md",
     "Penetration Testing/Pentesting Notes.md",

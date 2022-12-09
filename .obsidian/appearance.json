@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [],
   "cssTheme": "Blue Topaz",
-  "translucency": true
+  "translucency": true,
+  "accentColor": ""
 }
