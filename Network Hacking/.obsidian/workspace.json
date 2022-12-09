@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RECONAISSANCE/WEP.md",
+                "file": "RECONAISSANCE/SET UP.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RECONAISSANCE/WEP.md",
+                "file": "RECONAISSANCE/SET UP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RECONAISSANCE/WEP.md",
+                "file": "RECONAISSANCE/SET UP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RECONAISSANCE/WEP.md"
+                "file": "RECONAISSANCE/SET UP.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "c3675edd85257838",
   "lastOpenFiles": [
+    "RECONAISSANCE/WEP.md",
     "RECONAISSANCE/SET UP.md"
   ]
 }

@@ -8,8 +8,10 @@
 
 > List available networks: 
 > `airodump-ng wlan0`
+> 
 > Targetted sniffing:
 >  `airodump-ng --bssid <host-mac> --channel <channel> --write <file> wlan0`
+>  
 >  De-auth attack:
 >  `aireplay-ng --deauth <packets> -a <host> -c <station> wlan0`
 

